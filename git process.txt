@@ -4,3 +4,5 @@ git commit -m "comment"
 git branch -M main
 git remote add origin https://github.com/murari2401/AnimatedSite.git
 git push -u origin main
+
+----Self learning
